@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata-project.iml" filepath="$PROJECT_DIR$/bigdata-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-demo/hbase-demo.iml" filepath="$PROJECT_DIR$/hbase-demo/hbase-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs-demo/hdfs-demo.iml" filepath="$PROJECT_DIR$/hdfs-demo/hdfs-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive-demo/hive-demo.iml" filepath="$PROJECT_DIR$/hive-demo/hive-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-demo/jdbc-demo.iml" filepath="$PROJECT_DIR$/jdbc-demo/jdbc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerberos-demo/kerberos-demo.iml" filepath="$PROJECT_DIR$/kerberos-demo/kerberos-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kudu-demo/kudu-demo.iml" filepath="$PROJECT_DIR$/kudu-demo/kudu-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-demo/redis-demo.iml" filepath="$PROJECT_DIR$/redis-demo/redis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" filepath="$PROJECT_DIR$/rocketmq-demo/rocketmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell-demo/shell-demo.iml" filepath="$PROJECT_DIR$/shell-demo/shell-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-demo/spark-demo.iml" filepath="$PROJECT_DIR$/spark-demo/spark-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqoop2-demo/sqoop2-demo.iml" filepath="$PROJECT_DIR$/sqoop2-demo/sqoop2-demo.iml" />
+    </modules>
+  </component>
+</project>
